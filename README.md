@@ -2,3 +2,4 @@
 -feature-A
 --fix_b
 --feature-C
+--feature-D
